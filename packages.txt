@@ -1,0 +1,5 @@
+nerdtree
+vim-airline
+vim-colors-solarized
+vim-node
+vim-sensible
